@@ -1,0 +1,2 @@
+# gina
+My scriptngina
